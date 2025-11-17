@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { useRouter } from 'expo-router';
-import SplashScreen from '../splashscreen';
+import SplashScreen from './splashscreen';
 
 export default function Index() {
   const router = useRouter();
@@ -8,7 +8,7 @@ export default function Index() {
   useEffect(() => {
     const timer = setTimeout(() => {
       router.replace('/(tabs)');
-    }, 100000);
+    }, 2000);
 
     return () => clearTimeout(timer);
   }, []);
