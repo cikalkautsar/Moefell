@@ -1,97 +1,143 @@
 {
-  "dzikir_pagi": [
-    {
-      "nama": "Ayat Kursi",
-      "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوۡمُ ەۚ لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ مَنۡ ذَا الَّذِىۡ يَشۡفَعُ عِنۡدَهٗٓ اِلَّا بِاِذۡنِهٖؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡۚ وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلۡمِهٖٓ اِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ‌ۚ وَلَا يَـــُٔوۡدُهٗ حِفۡظُهُمَاۚ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ",
-      "latin": "Allāhu lā ilāha illā huw(a), al-ḥayyul-qayyūm(u), lā ta'khużuhū sinatuw wa lā naum(un), lahū mā fis-samāwāti wa mā fil-arḍ(i), man żal-lażī yasyfa'u 'indahū illā bi'iżnih(ī), ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭūna bisyai'im min 'ilmihī illā bimā syā'(a), wasi'a kursiyyuhus-samāwāti wal-arḍ(a), wa lā ya'ūduhū ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm(u).",
-      "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar.",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Surah Al-Ikhlas, Al-Falaq, dan An-Naas",
-      "arab": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ. ٱللَّهُ ٱلصَّمَدُ. لَمْ يَلِدْ وَلَمْ يُولَدْ. وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ. مِن شَرِّ مَا خَلَقَ. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ. وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ. مَلِكِ ٱلنَّاسِ. إِلَٰهِ ٱلنَّاسِ. مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ. ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ. مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.",
-      "latin": "Qul huwallāhu aḥad. Allāhuṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad.\n\nQul a'ūżu birabbil-falaq. Min syarri mā khalaq. Wa min syarri gāsiqin iżā waqab. Wa min syarrin-naffāṡāti fil-'uqad. Wa min syarri ḥāsidin iżā ḥasad.\n\nQul a'ūżu birabbin-nās. Malikin-nās. Ilāhin-nās. Min syarril-waswāsil-khannās. Allażī yuwaswisu fī ṣudūrin-nās. Minal-jinnati wan-nās.",
-      "terjemahan": "(Al-Ikhlas): Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah tempat bergantung segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia.\n\n(Al-Falaq): Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan orang yang dengki apabila ia dengki.\n\n(An-Naas): Katakanlah: Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia. Dari (golongan) jin dan manusia.",
-      "keterangan": "Masing-masing surah (Al-Ikhlas, Al-Falaq, dan An-Naas) dibaca 3x"
-    },
-    {
-      "nama": "Sayyidul Istighfar",
-      "arab": "اَللَّهُمَّ أَنْتَ رَبِّيْ لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ. أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
-      "latin": "Allāhumma anta rabbī, lā ilāha illā anta khalaqtanī. Wa anā 'abduka, wa anā 'alā 'ahdika wa wa'dika mastatha'tu. A'ūżu bika min syarri mā shana'tu. Abū'u laka bini'matika 'alayya. Wa abū'u biżanbī. Faghfirlī. Fa innahū lā yaghfiruż żunūba illā anta.",
-      "terjemahan": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi kecuali Engkau, Engkaulah yang menciptakanku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan yang kuperbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, oleh karena itu ampunilah aku. Sebab tidak ada yang dapat mengampuni dosa selain Engkau.",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Doa Mohon Keberkahan Pagi",
-      "arab": "اَللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ النُّشُوْرُ",
-      "latin": "Allāhumma bika aṣbaḥnā, wa bika amsainā, wa bika naḥyā, wa bika namūtu, wa ilaikannusyūr.",
-      "terjemahan": "Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu sore. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu kebangkitan (pada Hari Kiamat).",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Doa Ridho Allah",
-      "arab": "رَضِيْتُ بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
-      "latin": "Raḍītu billāhi rabbā, wa bil-islāmi dīnā, wa bi-muḥammadin ṣallallāhu 'alaihi wa sallama nabiyyā.",
-      "terjemahan": "Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad shallallahu 'alaihi wa sallam sebagai Nabiku.",
-      "keterangan": "Dibaca 3x"
-    },
-    {
-      "nama": "Dzikir tasbih (Subhanallah wa bihamdihi 'adada kholqih)",
-      "arab": "سُبْحَانَ اللهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
-      "latin": "Subḥānallāhi wa biḥamdihī 'adada khalqihī, wa riḍā nafsihī, wa zinata 'arsyihī, wa midāda kalimātihī.",
-      "terjemahan": "Maha Suci Allah, aku memuji-Nya sebanyak bilangan makhluk-Nya, sesuai keridhaan-Nya, seberat timbangan 'Arsy-Nya, dan sebanyak tinta kalimat-kalimat-Nya.",
-      "keterangan": "Dibaca 3x"
-    },
-    {
-      "nama": "Dzikir tauhid",
-      "arab": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
-      "latin": "Lā ilāha illallāhu waḥdahū lā syarīka lahū, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai'in qadīr.",
-      "terjemahan": "Tidak ada Tuhan (yang berhak diibadahi) selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dia-lah yang Maha Kuasa atas segala sesuatu.",
-      "keterangan": "Dibaca 10x atau 100x"
-    }
-  ],
-  "dzikir_petang": [
-    {
-      "nama": "Ayat Kursi",
-      "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوۡمُ ەۚ لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ مَنۡ ذَا الَّذِىۡ يَشۡفَعُ عِنۡدَهٗٓ اِلَّا بِاِذۡنِهٖؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡۚ وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلۡمِهٖٓ اِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ‌ۚ وَلَا يَـــُٔوۡدُهٗ حِفۡظُهُمَاۚ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ",
-      "latin": "Allāhu lā ilāha illā huw(a), al-ḥayyul-qayyūm(u), lā ta'khużuhū sinatuw wa lā naum(un), lahū mā fis-samāwāti wa mā fil-arḍ(i), man żal-lażī yasyfa'u 'indahū illā bi'iżnih(ī), ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭūna bisyai'im min 'ilmihī illā bimā syā'(a), wasi'a kursiyyuhus-samāwāti wal-arḍ(a), wa lā ya'ūduhū ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm(u).",
-      "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar.",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Surah Al-Ikhlas, Al-Falaq, dan An-Naas",
-      "arab": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ. ٱللَّهُ ٱلصَّمَدُ. لَمْ يَلِدْ وَلَمْ يُولَدْ. وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ. مِن شَرِّ مَا خَلَقَ. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ. وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ. مَلِكِ ٱلنَّاسِ. إِلَٰهِ ٱلنَّاسِ. مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ. ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ. مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.",
-      "latin": "Qul huwallāhu aḥad. Allāhuṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad.\n\nQul a'ūżu birabbil-falaq. Min syarri mā khalaq. Wa min syarri gāsiqin iżā waqab. Wa min syarrin-naffāṡāti fil-'uqad. Wa min syarri ḥāsidin iżā ḥasad.\n\nQul a'ūżu birabbin-nās. Malikin-nās. Ilāhin-nās. Min syarril-waswāsil-khannās. Allażī yuwaswisu fī ṣudūrin-nās. Minal-jinnati wan-nās.",
-      "terjemahan": "(Al-Ikhlas): Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah tempat bergantung segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia.\n\n(Al-Falaq): Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan orang yang dengki apabila ia dengki.\n\n(An-Naas): Katakanlah: Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia. Dari (golongan) jin dan manusia.",
-      "keterangan": "Masing-masing surah (Al-Ikhlas, Al-Falaq, dan An-Naas) dibaca 3x"
-    },
-    {
-      "nama": "Doa Sore Hari (Allāhumma bika amsainā)",
-      "arab": "اَللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ الْمَصِيْرُ",
-      "latin": "Allāhumma bika amsainā, wa bika aṣbaḥnā, wa bika naḥyā, wa bika namūtu, wa ilaikal-maṣīr.",
-      "terjemahan": "Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu sore, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu tempat kembali.",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Doa Perlindungan (A'ūżu bikalimātillāhit-tāmmāti)",
-      "arab": "أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
-      "latin": "A'ūżu bikalimātillāhit-tāmmāti min syarri mā khalaq.",
-      "terjemahan": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa-apa yang diciptakan-Nya.",
-      "keterangan": "Dibaca 3x"
-    },
-    {
-      "nama": "Sayyidul Istighfar",
-      "arab": "اَللَّهُمَّ أَنْتَ رَبِّيْ لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ. أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
-      "latin": "Allāhumma anta rabbī, lā ilāha illā anta khalaqtanī. Wa anā 'abduka, wa anā 'alā 'ahdika wa wa'dika mastatha'tu. A'ūżu bika min syarri mā shana'tu. Abū'u laka bini'matika 'alayya. Wa abū'u biżanbī. Faghfirlī. Fa innahū lā yaghfiruż żunūba illā anta.",
-      "terjemahan": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi kecuali Engkau, Engkaulah yang menciptakanku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan yang kuperbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, oleh karena itu ampunilah aku. Sebab tidak ada yang dapat mengampuni dosa selain Engkau.",
-      "keterangan": "Dibaca 1x"
-    },
-    {
-      "nama": "Doa Ridho Allah",
-      "arab": "رَضِيْتُ بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
-      "latin": "Raḍītu billāhi rabbā, wa bil-islāmi dīnā, wa bi-muḥammadin ṣallallāhu 'alaihi wa sallama nabiyyā.",
-      "terjemahan": "Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad shallallahu 'alaihi wa sallam sebagai Nabiku.",
-      "keterangan": "Dibaca 3x"
-    }
-  ]
+  "kumpulan_dzikir": {
+    "dzikir_pagi": [
+      {
+        "nama": "Ayat Kursi",
+        "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوۡمُ ەۚ لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ مَنۡ ذَا الَّذِىۡ يَشْفَعُ عِنۡدَهٗٓ اِلَّا بِاِذۡنِهٖؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡۚ وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلْمِهٖٓ اِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ‌ۚ وَلَا يَـــُٔوۡدُهٗ حِفْظُهُمَاۚ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ",
+        "latin": "Allāhu lā ilāha illā huw(a), al-ḥayyul-qayyūm(u), lā ta'khużuhū sinatuw wa lā naum(un), lahū mā fis-samāwāti wa mā fil-arḍ(i), man żal-lażī yasyfa'u 'indahū illā bi'iżnih(ī), ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭūna bisyai'im min 'ilmihī illā bimā syā'(a), wasi'a kursiyyuhus-samāwāti wal-arḍ(a), wa lā ya'ūduhū ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm(u).",
+        "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Surah Al-Ikhlas, Al-Falaq, dan An-Naas",
+        "arab": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ. ٱللَّهُ ٱلصَّمَدُ. لَمْ يَلِدْ وَلَمْ يُولَدْ. وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ. مِن شَرِّ مَا خَلَقَ. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ. وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ. مَلِكِ ٱلنَّاسِ. إِلَٰهِ ٱلنَّاسِ. مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ. ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ. مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.",
+        "latin": "Qul huwallāhu aḥad. Allāhuṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad.\n\nQul a'ūżu birabbil-falaq. Min syarri mā khalaq. Wa min syarri gāsiqin iżā waqab. Wa min syarrin-naffāṡāti fil-'uqad. Wa min syarri ḥāsidin iżā ḥasad.\n\nQul a'ūżu birabbin-nās. Malikin-nās. Ilāhin-nās. Min syarril-waswāsil-khannās. Allażī yuwaswisu fī ṣudūrin-nās. Minal-jinnati wan-nās.",
+        "terjemahan": "(Al-Ikhlas): Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah tempat bergantung segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia.\n\n(Al-Falaq): Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan orang yang dengki apabila ia dengki.\n\n(An-Naas): Katakanlah: Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia. Dari (golongan) jin dan manusia.",
+        "keterangan": "Masing-masing surah dibaca 3x"
+      },
+      {
+        "nama": "Sayyidul Istighfar",
+        "arab": "اَللَّهُمَّ أَنْتَ رَبِّيْ لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ. أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
+        "latin": "Allāhumma anta rabbī, lā ilāha illā anta khalaqtanī. Wa anā 'abduka, wa anā 'alā 'ahdika wa wa'dika mastatha'tu. A'ūżu bika min syarri mā shana'tu. Abū'u laka bini'matika 'alayya. Wa abū'u biżanbī. Faghfirlī. Fa innahū lā yaghfiruż żunūba illā anta.",
+        "terjemahan": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi kecuali Engkau, Engkaulah yang menciptakanku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan yang kuperbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, oleh karena itu ampunilah aku. Sebab tidak ada yang dapat mengampuni dosa selain Engkau.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Doa Mohon Keberkahan Pagi",
+        "arab": "اَللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ النُّشُوْرُ",
+        "latin": "Allāhumma bika aṣbaḥnā, wa bika amsainā, wa bika naḥyā, wa bika namūtu, wa ilaikannusyūr.",
+        "terjemahan": "Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu sore. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu kebangkitan (pada Hari Kiamat).",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Doa Ridho Allah",
+        "arab": "رَضِيْتُ بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+        "latin": "Raḍītu billāhi rabbā, wa bil-islāmi dīnā, wa bi-muḥammadin ṣallallāhu 'alaihi wa sallama nabiyyā.",
+        "terjemahan": "Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad shallallahu 'alaihi wa sallam sebagai Nabiku.",
+        "keterangan": "Dibaca 3x"
+      },
+      {
+        "nama": "Dzikir tasbih",
+        "arab": "سُبْحَانَ اللهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+        "latin": "Subḥānallāhi wa biḥamdihī 'adada khalqihī, wa riḍā nafsihī, wa zinata 'arsyihī, wa midāda kalimātihī.",
+        "terjemahan": "Maha Suci Allah, aku memuji-Nya sebanyak bilangan makhluk-Nya, sesuai keridhaan-Nya, seberat timbangan 'Arsy-Nya, dan sebanyak tinta kalimat-kalimat-Nya.",
+        "keterangan": "Dibaca 3x"
+      },
+      {
+        "nama": "Dzikir tauhid",
+        "arab": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "latin": "Lā ilāha illallāhu waḥdahū lā syarīka lahū, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai'in qadīr.",
+        "terjemahan": "Tidak ada Tuhan (yang berhak diibadahi) selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dia-lah yang Maha Kuasa atas segala sesuatu.",
+        "keterangan": "Dibaca 10x atau 100x"
+      }
+    ],
+    "dzikir_petang": [
+      {
+        "nama": "Ayat Kursi",
+        "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوۡمُ ەۚ لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ مَنۡ ذَا الَّذِىۡ يَشْفَعُ عِنۡدَهٗٓ اِلَّا بِاِذۡنِهٖؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡۚ وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلْمِهٖٓ اِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ‌ۚ وَلَا يَـــُٔوۡدُهٗ حِفْظُهُمَاۚ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ",
+        "latin": "Allāhu lā ilāha illā huw(a), al-ḥayyul-qayyūm(u), lā ta'khużuhū sinatuw wa lā naum(un), lahū mā fis-samāwāti wa mā fil-arḍ(i), man żal-lażī yasyfa'u 'indahū illā bi'iżnih(ī), ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭūna bisyai'im min 'ilmihī illā bimā syā'(a), wasi'a kursiyyuhus-samāwāti wal-arḍ(a), wa lā ya'ūduhū ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm(u).",
+        "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. ... (lanjutan terjemahan penuh)",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Surah Al-Ikhlas, Al-Falaq, dan An-Naas",
+        "arab": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ. ٱللَّهُ ٱلصَّمَدُ. لَمْ يَلِدْ وَلَمْ يُولَدْ. وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ. مِن شَرِّ مَا خَلَقَ. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ. وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ. مَلِكِ ٱلنَّاسِ. إِلَٰهِ ٱلنَّاسِ. مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ. ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ. مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.",
+        "latin": "Qul huwallāhu aḥad. Allāhuṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad.\n\nQul a'ūżu birabbil-falaq. Min syarri mā khalaq. Wa min syarri gāsiqin iżā waqab. Wa min syarrin-naffāṡāti fil-'uqad. Wa min syarri ḥāsidin iżā ḥasad.\n\nQul a'ūżu birabbin-nās. Malikin-nās. Ilāhin-nās. Min syarril-waswāsil-khannās. Allażī yuwaswisu fī ṣudūrin-nās. Minal-jinnati wan-nās.",
+        "terjemahan": "(Al-Ikhlas), (Al-Falaq), dan (An-Naas) (Terjemahan sama seperti di dzikir pagi).",
+        "keterangan": "Masing-masing surah dibaca 3x"
+      },
+      {
+        "nama": "Doa Sore Hari (Allāhumma bika amsainā)",
+        "arab": "اَللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ، وَإِلَيْكَ الْمَصِيْرُ",
+        "latin": "Allāhumma bika amsainā, wa bika aṣbaḥnā, wa bika naḥyā, wa bika namūtu, wa ilaikal-maṣīr.",
+        "terjemahan": "Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu sore, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu tempat kembali.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Doa Perlindungan (A'ūżu bikalimātillāhit-tāmmāti)",
+        "arab": "أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "latin": "A'ūżu bikalimātillāhit-tāmmāti min syarri mā khalaq.",
+        "terjemahan": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa-apa yang diciptakan-Nya.",
+        "keterangan": "Dibaca 3x"
+      },
+      {
+        "nama": "Sayyidul Istighfar",
+        "arab": "اَللَّهُمَّ أَنْتَ رَبِّيْ لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ. أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
+        "latin": "Allāhumma anta rabbī, lā ilāha illā anta khalaqtanī. Wa anā 'abduka, wa anā 'alā 'ahdika wa wa'dika mastatha'tu. A'ūżu bika min syarri mā shana'tu. Abū'u laka bini'matika 'alayya. Wa abū'u biżanbī. Faghfirlī. Fa innahū lā yaghfiruż żunūba illā anta.",
+        "terjemahan": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi kecuali Engkau... (Terjemahan sama seperti di dzikir pagi).",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Doa Ridho Allah",
+        "arab": "رَضِيْتُ بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+        "latin": "Raḍītu billāhi rabbā, wa bil-islāmi dīnā, wa bi-muḥammadin ṣallallāhu 'alaihi wa sallama nabiyyā.",
+        "terjemahan": "Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad shallallahu 'alaihi wa sallam sebagai Nabiku.",
+        "keterangan": "Dibaca 3x"
+      }
+    ],
+    "dzikir_sesudah_sholat": [
+      {
+        "nama": "Istighfar",
+        "arab": "أَسْتَغْفِرُ اللهَ",
+        "latin": "Astaghfirullāh.",
+        "terjemahan": "Aku memohon ampun kepada Allah.",
+        "keterangan": "Dibaca 3x"
+      },
+      {
+        "nama": "Keselamatan dan Kemuliaan",
+        "arab": "اَللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ",
+        "latin": "Allāhumma antas salāmu, wa minkas salāmu, tabārakta yā żal-jalāli wal-ikrām.",
+        "terjemahan": "Ya Allah, Engkau adalah Dzat yang Maha Sejahtera, dan dari-Mu lah kesejahteraan, Maha Berkah Engkau wahai Dzat Pemilik Keagungan dan Kemuliaan.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Tahlil, Pujian, dan Permohonan",
+        "arab": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.",
+        "latin": "Lā ilāha illallāhu waḥdahū lā syarīka lahū, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai'in qadīr. Allāhumma lā māni'a limā a'ṭaita, wa lā mu'ṭiya limā mana'ta, wa lā yanfa'u żal-jaddi minkal-jaddu.",
+        "terjemahan": "Tidak ada tuhan yang berhak diibadahi selain Allah semata, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dia-lah Yang Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau berikan, dan tidak ada yang dapat memberi apa yang Engkau halangi. Dan tidaklah bermanfaat kekayaan dan kemuliaan itu bagi pemiliknya, melainkan dari Engkau kekayaan dan kemuliaan itu.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Tasbih, Tahmid, dan Takbir",
+        "arab": "سُبْحَانَ اللهِ (33x), اَلْحَمْدُ لِلَّهِ (33x), اَللهُ أَكْبَرُ (33x)",
+        "latin": "Subḥānallāh (33x), Alḥamdulillāh (33x), Allāhu Akbar (33x).",
+        "terjemahan": "Maha Suci Allah (33x), Segala puji bagi Allah (33x), Allah Maha Besar (33x).",
+        "keterangan": "Masing-masing dibaca 33x"
+      },
+      {
+        "nama": "Penyempurna 100",
+        "arab": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "latin": "Lā ilāha illallāhu waḥdahū lā syarīka lahū, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai'in qadīr.",
+        "terjemahan": "Tidak ada tuhan yang berhak diibadahi selain Allah semata, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dia-lah Yang Maha Kuasa atas segala sesuatu.",
+        "keterangan": "Dibaca 1x"
+      },
+      {
+        "nama": "Ayat Kursi",
+        "arab": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّوۡمُ ەۚ لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌؕ لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِؕ مَنۡ ذَا الَّذِىۡ يَشْفَعُ عِنۡدَهٗٓ اِلَّا بِاِذۡنِهٖؕ يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡۚ وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلْمِهٖٓ اِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ‌ۚ وَلَا يَـــُٔوۡدُهٗ حِفْظُهُمَاۚ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ",
+        "latin": "Allāhu lā ilāha illā huw(a), al-ḥayyul-qayyūm(u), lā ta'khużuhū sinatuw wa lā naum(un), lahū mā fis-samāwāti wa mā fil-arḍ(i), man żal-lażī yasyfa'u 'indahū illā bi'iżnih(ī), ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭūna bisyai'im min 'ilmihī illā bimā syā'(a), wasi'a kursiyyuhus-samāwāti wal-arḍ(a), wa lā ya'ūduhū ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm(u).",
+        "terjemahan": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya)... (Terjemahan sama seperti di dzikir pagi).",
+        "keterangan": "Dibaca 1x"
+      }
+    ]
+  }
 }
