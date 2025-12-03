@@ -4,6 +4,7 @@ import { useRouter } from 'expo-router';
 import { LinearGradient } from 'expo-linear-gradient';
 // @ts-ignore
 import moment from 'moment-hijri';
+import { listenAuth, getUser } from '../backend/auth';
 
 const home = () => {
   const router = useRouter();
@@ -11,6 +12,7 @@ const home = () => {
     dayName: '',
     hijriDate: '',
   });
+  const [userName, setUserName] = useState<string>('');
 
   useEffect(() => {
     updateDate();
@@ -19,6 +21,7 @@ const home = () => {
     }, 60000);
     return () => clearInterval(interval);
   }, []);
+
 
   const updateDate = () => {
     const now = moment();
@@ -72,7 +75,6 @@ const home = () => {
         <View style={styles.greetingSection}>
           <View style={styles.greetingRow}>
             <Text style={styles.greetingText}>Assalamualaikum </Text>
-            <Text style={styles.greetingName}>Hani</Text>
           </View>
           <Text style={styles.subGreeting}>
             Sudahkah kamu Berdzikir & Berdoa Hari ini ?

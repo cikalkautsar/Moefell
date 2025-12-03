@@ -2,22 +2,37 @@ import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useRouter } from 'expo-router';
 import React from 'react';
-import { Platform, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
-const dzikir = () => {
+const Dzikir = () => {
   const router = useRouter();
+
+  // Navigasi ke halaman detail
+  const navigateToDzikirDetail = (title: string, keyName: string) => {
+    router.push({
+      // Nama file route: dzikirdetail.tsx  -> pathname harus "dzikirdetail"
+      pathname: '/dzikirdetail',
+      params: {
+        title,
+        keyName,
+      },
+    });
+  };
 
   return (
     <View style={styles.container}>
+      
       {/* Header */}
       <View style={styles.header}>
         <TouchableOpacity 
-          style={styles.backButton} 
+          style={styles.backButton}
           onPress={() => router.back()}
         >
           <Ionicons name="arrow-back" size={24} color="#5F6F5C" />
         </TouchableOpacity>
+
         <Text style={styles.headerTitle}>Pilih Dzikir</Text>
+
         <View style={{ width: 24 }} />
       </View>
 
@@ -30,34 +45,34 @@ const dzikir = () => {
           Pilihlah dzikir sesuai waktu dan kebutuhan kamu.
         </Text>
 
-        {/* Button - Dzikir Sesudah Solat */}
+        {/* Dzikir Sesudah Sholat */}
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => console.log('Dzikir Sesudah Solat')}
+          onPress={() => navigateToDzikirDetail('Dzikir Sesudah Sholat', 'dzikir_sesudah_sholat')}
         >
-          <Text style={styles.buttonText}>Dzikir Sesudah Solat</Text>
+          <Text style={styles.buttonText}>Dzikir Sesudah Sholat</Text>
         </TouchableOpacity>
 
-        {/* Button - Dzikir Pagi */}
+        {/* Dzikir Pagi */}
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => console.log('Dzikir Pagi')}
+          onPress={() => navigateToDzikirDetail('Dzikir Pagi', 'dzikir_pagi')}
         >
           <Text style={styles.buttonText}>Dzikir Pagi</Text>
         </TouchableOpacity>
 
-        {/* Button - Dzikir Petang */}
+        {/* Dzikir Petang */}
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => console.log('Dzikir Petang')}
+          onPress={() => navigateToDzikirDetail('Dzikir Petang', 'dzikir_petang')}
         >
           <Text style={styles.buttonText}>Dzikir Petang</Text>
         </TouchableOpacity>
 
-        {/* Button Tasbih Digital dengan Gradient */}
+        {/* Tasbih Digital */}
         <TouchableOpacity 
           style={styles.tasbihWrapper}
           activeOpacity={0.8}
@@ -72,6 +87,7 @@ const dzikir = () => {
             <Text style={styles.tasbihText}>Tasbih Digital</Text>
           </LinearGradient>
         </TouchableOpacity>
+
       </ScrollView>
     </View>
   );
@@ -128,6 +144,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     marginBottom: 16,
+
     elevation: 2,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
@@ -147,8 +164,6 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     marginTop: 20,
     marginBottom: 40,
-    left: 69,
-    top: 30,
   },
   tasbihGradient: {
     paddingVertical: 14,
@@ -163,4 +178,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default dzikir;
+export default Dzikir;
