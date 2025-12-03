@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, Image, TouchableOpacity, Platform, ImageBackground } from 'react-native';
 import { useRouter } from 'expo-router';
 import { LinearGradient } from 'expo-linear-gradient';
-// @ts-ignore
+
 import moment from 'moment-hijri';
 import { listenAuth, getUser } from '../backend/auth';
 
@@ -84,7 +84,7 @@ const home = () => {
         <TouchableOpacity 
           style={styles.card}
           activeOpacity={0.8}
-          onPress={() => router.push('/dzikir')} 
+          onPress={() => router.push('/dzikir/dzikir')} 
         >
           <Image 
             source={require('../assets/images/dzikir.jpg')}
@@ -103,7 +103,7 @@ const home = () => {
         <TouchableOpacity 
           style={styles.card}
           activeOpacity={0.8}
-          onPress={() => router.push('/doa')} 
+          onPress={() => router.push('/doa/doa')} 
         >
           <Image 
             source={require('../assets/images/doa.jpg')}
