@@ -16,13 +16,6 @@ const Dzikir: React.FC = () => {
   const router = useRouter();
 
 
-  const navigateToDzikirDetail = (title: string, keyName: string) => {
-    router.push({
-      pathname: '/dzikir/dzikirDetail',
-      params: { title, keyName }
-    });
-  };
-
   return (
     <View style={styles.container}>
       
@@ -52,7 +45,7 @@ const Dzikir: React.FC = () => {
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => navigateToDzikirDetail('Dzikir Sesudah Sholat', 'dzikir_sesudah_sholat')}
+          onPress={() => router.push('/dzikir/sesudahsholat')}
         >
           <Text style={styles.buttonText}>Dzikir Sesudah Sholat</Text>
         </TouchableOpacity>
@@ -61,7 +54,7 @@ const Dzikir: React.FC = () => {
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => navigateToDzikirDetail('Dzikir Pagi', 'dzikir_pagi')}
+          onPress={() => router.push('/dzikir/pagi')}   // BUAT SCREEN BARU
         >
           <Text style={styles.buttonText}>Dzikir Pagi</Text>
         </TouchableOpacity>
@@ -70,7 +63,7 @@ const Dzikir: React.FC = () => {
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.7}
-          onPress={() => navigateToDzikirDetail('Dzikir Petang', 'dzikir_petang')}
+          onPress={() =>  router.push('/dzikir/petang')}
         >
           <Text style={styles.buttonText}>Dzikir Petang</Text>
         </TouchableOpacity>
@@ -79,7 +72,7 @@ const Dzikir: React.FC = () => {
         <TouchableOpacity 
           style={styles.tasbihWrapper}
           activeOpacity={0.8}
-          onPress={() => console.log('Tasbih Digital')}
+          onPress={() => router.push('/dzikir/tasbih')}
         >
           <LinearGradient
             colors={['#637A60', '#B6E0B0']}
