@@ -1,51 +1,30 @@
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
-import { useLocalSearchParams, useRouter } from 'expo-router';
+import { useRouter } from 'expo-router';
 import React from 'react';
 import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import dzikirData from '../../databases/dzikir.json';
 
-export default function DzikirDetail() {
+const dzikirSesudahSholat =
+  dzikirData.kumpulan_dzikir?.dzikir_sesudah_sholat ?? [];
+
+export default function SesudahSholat() {
   const router = useRouter();
-  const { title, keyName, index } = useLocalSearchParams<{
-    title: string;
-    keyName: string;
-    index?: string;
-  }>();
 
-  const dzikirList =
-    dzikirData.kumpulan_dzikir &&
-    keyName &&
-    dzikirData.kumpulan_dzikir[keyName as keyof typeof dzikirData.kumpulan_dzikir]
-      ? dzikirData.kumpulan_dzikir[
-          keyName as keyof typeof dzikirData.kumpulan_dzikir
-        ]
-      : [];
+  const handleBack = () => {
+    if (router.canGoBack?.()) {
+      router.back();
+    } else {
+      router.replace('/dzikir');
+    }
+  };
 
-  const itemIndex = index ? Number(index) : 0;
-  const item: any = dzikirList[itemIndex];
+  const getDzikirLabel = (index: number) => {
+  const labels = ['Pertama', 'Kedua', 'Ketiga', 'Keempat', 'Kelima', 'Keenam'];
+  return labels[index] ?? `Ke-${index + 1}`;
+};
 
-  if (!item) {
-    return (
-      <View style={styles.container}>
-        <View style={styles.header}>
-          <TouchableOpacity
-            style={styles.backButton}
-            onPress={() => router.back()}
-          >
-            <Ionicons name="arrow-back" size={24} color="#5F6F5C" />
-          </TouchableOpacity>
-          <Text style={styles.headerTitle}>{title}</Text>
-          <View style={{ width: 24 }} />
-        </View>
-
-        <View style={{ paddingHorizontal: 20 }}>
-          <Text>Data dzikir tidak ditemukan.</Text>
-        </View>
-      </View>
-    );
-  }
 
   return (
     <View style={styles.container}>
@@ -53,45 +32,50 @@ export default function DzikirDetail() {
       <View style={styles.header}>
         <TouchableOpacity
           style={styles.backButton}
-          onPress={() => router.back()}
+          onPress={handleBack}
         >
           <Ionicons name="arrow-back" size={24} color="#5F6F5C" />
         </TouchableOpacity>
-        <Text style={styles.headerTitle}>{title}</Text>
+
+        <Text style={styles.headerTitle}>Dzikir Sesudah Sholat</Text>
         <View style={{ width: 24 }} />
       </View>
 
-      {/* HANYA 1 DZIKIR, BISA DI-SCROLL */}
+      {/* SEMUA DZIKIR DALAM SATU PAGE */}
       <ScrollView
         style={styles.content}
         showsVerticalScrollIndicator={false}
       >
-        <View style={styles.card}>
-          {/* HEADER CARD DENGAN GRADIENT */}
-          <LinearGradient
-            colors={['#7AA96B', '#4F7F4D']}
-            start={{ x: 0, y: 0 }}
-            end={{ x: 3, y: 0 }}
-            style={styles.cardHeader}
-          >
-            <Text style={styles.cardTitle}>{item.nama}</Text>
+        {dzikirSesudahSholat.map((item: any, index: number) => (
+          <View key={index} style={styles.card}>
+            {/* HEADER CARD GRADIENT */}
+            <LinearGradient
+              colors={['#7AA96B', '#4F7F4D']}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 0 }}
+              style={styles.cardHeader}
+            >
+            <Text style={styles.cardTitle}>
+            {`Dzikir ${getDzikirLabel(index)}`}
+            </Text>
 
-            <View style={styles.cardRight}>
               <Ionicons name="checkmark" size={18} color="#FFFFFF" />
-            </View>
-          </LinearGradient>
+            </LinearGradient>
 
-          {/* ISI DZIKIR */}
-          <Text style={styles.arabic}>{item.arab}</Text>
-          <Text style={styles.latin}>{item.latin}</Text>
+            {/* ISI DZIKIR */}
+            <Text style={styles.sectionTitle}>{item.nama}</Text>
 
-          <Text style={styles.artiLabel}>Artinya:</Text>
-          <Text style={styles.arti}>{item.terjemahan}</Text>
+            <Text style={styles.arabic}>{item.arab}</Text>
+            <Text style={styles.latin}>{item.latin}</Text>
 
-          {item.keterangan ? (
+            <Text style={styles.artiLabel}>Artinya:</Text>
+            <Text style={styles.arti}>{item.terjemahan}</Text>
+
             <Text style={styles.keterangan}>{item.keterangan}</Text>
-          ) : null}
-        </View>
+          </View>
+        ))}
+
+        <View style={{ height: 24 }} />
       </ScrollView>
     </View>
   );
@@ -108,7 +92,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     paddingHorizontal: 20,
     paddingTop: 50,
-    paddingBottom: 20,
+    paddingBottom: 16,
   },
   backButton: {
     width: 40,
@@ -139,17 +123,18 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     paddingHorizontal: 12,
     borderRadius: 10,
-    marginBottom: 12,
+    marginBottom: 10,
   },
   cardTitle: {
     fontFamily: 'PoppinsSemiBold',
-    color: 'white',
+    color: '#FFFFFF',
     fontSize: 14,
   },
-  cardRight: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    columnGap: 8,
+  sectionTitle: {
+    fontFamily: 'PoppinsSemiBold',
+    fontSize: 14,
+    color: '#5F6F5C',
+    marginBottom: 8,
   },
   arabic: {
     fontFamily: 'PoppinsRegular',
@@ -173,7 +158,7 @@ const styles = StyleSheet.create({
     fontFamily: 'PoppinsRegular',
     fontSize: 14,
     lineHeight: 20,
-    marginBottom: 10,
+    marginBottom: 8,
     color: '#555',
   },
   keterangan: {
